@@ -19,4 +19,5 @@ python face_recognition.py
 ```
 <br>
 To test we can use any image from the folder <b>Faces/val/</b>. On recognition this is how it is displayed:<br><br>
-<img src="img/detected.png" height="300">
+<img src="img/detected.png" height="300"><br>
+<img src="img/output.jpg" height="200">
