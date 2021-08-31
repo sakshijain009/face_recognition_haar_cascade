@@ -1,5 +1,5 @@
 # Face Recognition Using Opencv
-Face Detection using Haar Cascades and OpenCV's LBPHFaceRecognizer algorithm.<br>
+_Face Detection using Haar Cascades and OpenCV's LBPHFaceRecognizer algorithm._<br><br>
 To run the project install opencv-contrib-python using pip:
 
 ```
