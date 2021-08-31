@@ -18,5 +18,5 @@ This will create the trained yaml file which will be used for recognition. To pr
 python face_recognition.py
 ```
 <br>
-To test we can use any image from the folder <b>Faces/val/</b>. On recognition this is how it is displayed:<br>
+To test we can use any image from the folder <b>Faces/val/</b>. On recognition this is how it is displayed:<br><br>
 <img src="img/detected.png" height="300">
