@@ -1,5 +1,5 @@
 # Face Recognition Using Opencv
-_Face Detection using Haar Cascades and OpenCV's LBPHFaceRecognizer algorithm._<br><br>
+### _Face Detection using Haar Cascades and OpenCV's LBPHFaceRecognizer algorithm._<br><br>
 To run the project install opencv-contrib-python using pip:
 
 ```
@@ -13,7 +13,7 @@ To train the model, run the following command:
 ```
 python faces_train.py
 ```
-This will create the trained yaml file which will be use for recognition. To predict the images run the following command:
+This will create the trained yaml file which will be used for recognition. To predict the images run the following command:
 ```
 python face_recognition.py
 ```
